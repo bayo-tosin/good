@@ -1,0 +1,56 @@
+ input, textarea{
+    display: block;
+    padding: 1em 2em;
+    margin: 1em;
+    border: 1px solid gainsboro;
+    border-radius: 20px;
+    outline: none;
+}
+body {
+    background-image: url(../IMAGE/1.jgp.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.contact {
+    margin-left: 40%;
+    text-decoration-style: solid;
+    color:black;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: .06em;
+    color: black;
+    text-align: center;
+    text-decoration-color: aqua;
+}
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: .06em;
+    color: black;
+    text-align: center;
+    text-decoration-color: aqua;
+}
+
+h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: .06em;
+    color: black;
+    text-align: center;
+    text-decoration-color: aqua;
+
+}
+
+
+h4{
+    text-decoration-style: solid;
+    color:black;
+    margin-left: 40%;
+
+}
+
+input {
+    text-align: left;
+}
+

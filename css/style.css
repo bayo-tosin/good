@@ -1,0 +1,82 @@
+*, *:after, *:before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Trebuchet;
+
+}
+body {
+    background-image: url(../IMAGE/5.jgp.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+a {
+    color:blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bolder;
+    margin-left: 25px;
+}
+ul li a:hover {
+    text-decoration-color: brown;
+    text-decoration: underline;
+}
+ul {
+    /* display: inline-block; */
+    margin: 1em;
+    float:right;
+}
+ul li {
+    display: inline;
+    margin: .5em;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: .06em;
+    color: rgb(58, 55, 55);
+    text-align: center;
+}
+div {
+    clear: both;
+}
+div.centralize {
+    text-align: center;
+    color:black;
+}
+h1 {
+    color: black;
+}
+div {
+    color: black;
+    text-decoration-style: solid;
+    font-display: bold;
+}
+
+.centralize button {
+    font-size: 14px;
+    /* font-weight: bolder; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(83, 81, 81);
+    border-radius: 1em;
+    padding: 10px 20px;
+    border: 1px solid gainsboro;
+    background-color: rgb(197, 194, 194);
+    box-shadow: 2px 4px 17px #c3c2c2;
+    cursor: pointer;
+    outline: none;
+}
+.centralize button:hover {
+    background-color: rgb(217, 218, 219);
+}
+.footer {
+    text-align: center;
+}
+.footer div {
+    margin: auto;
+    margin-top: 10px;
+    width: 15em;
+    font-family: 'Segoe UI';
+    text-align: left;
+}

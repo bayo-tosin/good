@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(232, 232, 255);
+}
+
+input, textarea{
+    display: block;
+    padding: 1em 2em;
+    margin: 1em;
+    border: 1px solid gainsboro;
+    border-radius: 20px;
+    outline: none;
+    float: center;
+}

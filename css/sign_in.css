@@ -1,0 +1,15 @@
+body {
+    background-image: url(4.jgp.jgp);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+input, textarea{
+    display: block;
+    padding: 1em 2em;
+    margin: 1em;
+    border: 1px solid gainsboro;
+    border-radius: 20px;
+    outline: none,
+}
+
