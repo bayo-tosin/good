@@ -11,3 +11,6 @@ input, textarea{
     outline: none;
     float: center;
 }
+.name {
+    margin-left: 35%;
+}
